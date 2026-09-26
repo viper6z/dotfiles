@@ -1,6 +1,6 @@
 # dotfiles
 
-WezTerm + PATH setup for a Linux VM where only `$HOME` survives a restart.
+WezTerm + PATH setup for a Linux VM.
 
 Everything is installed under your home folder, so it all persists:
 
